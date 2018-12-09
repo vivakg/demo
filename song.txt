@@ -2,3 +2,4 @@ my song
 few new words
 use git ui
 try the first tag!!!
+tag2
