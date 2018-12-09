@@ -1,4 +1,3 @@
 my song
 few new words
 use git ui
-try revert
